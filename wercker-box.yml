@@ -1,4 +1,4 @@
-name: box-yeoman
+name: box-robo
 version: 0.5.4
 inherits: wercker/ubuntu12.04-nodejs0.10@1.2.0
 type: main

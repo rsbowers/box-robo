@@ -1,14 +1,14 @@
 # TODO: Update to current versions of SASS, Compass, etc
 
 source 'https://rubygems.org'
-gem 'sass' , '~>3.3.0'
+gem 'sass' , '~>3.4.8'
 gem 'compass', '~>1.0.0.alpha.21'
 gem 'sass-globbing'
 gem 'bourbon'
 gem 'neat'
 gem 'bitters'
 gem "breakpoint", "~>2.4.0"
-gem 'susy'
+gem 'susy', '~>2.1.3'
 
 # Breakpoint
 # https://github.com/Team-Sass/breakpoint/wiki/Installation
