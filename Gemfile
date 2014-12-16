@@ -1,6 +1,8 @@
 # TODO: Update to current versions of SASS, Compass, etc
 
 source 'https://rubygems.org'
+gem "breakpoint", "~>2.4.0"
+gem 'susy', '~>2.1.3'
 
 # Breakpoint
 # https://github.com/Team-Sass/breakpoint/wiki/Installation
